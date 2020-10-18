@@ -13,11 +13,12 @@ With triple left quote we can put code, like this:
 
 ### C Example
 
-``` c
-if (english != null)
-    printf("You will get a joob");
-else
+```c
+if ( english != null ){
+    printf("You will get a job");
+} else {
     printf("You will need to improve your english");
+}
 ```
 
 #### This is a third title
