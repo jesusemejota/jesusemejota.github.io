@@ -13,7 +13,7 @@ This is normal text, and yes, im learning about **markdown** *language*.
 
 With triple left quote we can put code, like this:
 
-```
+```C
 if (english != null)
     printf("You will get a joob");
 else
@@ -30,3 +30,4 @@ But if you want a list with numbers, you can do this:
 2. Number two
 3. Number three
 4. Number four
+
